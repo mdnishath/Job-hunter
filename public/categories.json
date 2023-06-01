@@ -1,0 +1,26 @@
+[
+  {
+    "logo": "./assets/icons/project-management.png",
+    "name": "Project Management",
+    "jobsAvailable": 12,
+    "id": 1
+  },
+  {
+    "logo": "./assets/icons/marketing.png",
+    "name": "Marketing",
+    "jobsAvailable": 8,
+    "id": 2
+  },
+  {
+    "logo": "./assets/icons/finance.png",
+    "name": "Finance",
+    "jobsAvailable": 10,
+    "id": 3
+  },
+  {
+    "logo": "./assets/icons/healthcare.png",
+    "name": "Healthcare",
+    "jobsAvailable": 15,
+    "id": 4
+  }
+]

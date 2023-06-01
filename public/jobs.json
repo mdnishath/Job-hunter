@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "logo": "./assets/logo/google.png",
+    "jobTitle": "Software Engineer",
+    "companyName": "Google LLC",
+    "location": "Mountain View, California",
+    "jobType": ["Full Time", "Onsite"],
+    "salary": "$80,000 - $100,000",
+    "jobDescription": "We are seeking a talented Software Engineer to join our team and help develop innovative software solutions.",
+    "jobResponsibility": [
+      "Develop, test, and maintain software solutions",
+      "Collaborate with cross-functional teams",
+      "Identify and resolve software issues"
+    ],
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "2+ years of experience in software development",
+    "contact": {
+      "phone": "555-123-4567",
+      "email": "hr@techsoftsolutions.com"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "./assets/logo/microsoft.png",
+    "jobTitle": "Marketing Manager",
+    "companyName": "Microsoft Corporation",
+    "location": "Redmond, Washington",
+    "jobType": ["Full Time", "Onsite"],
+    "salary": "$90,000 - $110,000",
+    "jobDescription": "New Horizons Inc. is looking for a creative Marketing Manager to join our team and drive growth and brand awareness.",
+    "jobResponsibility": [
+      "Develop and execute marketing strategies and campaigns",
+      "Analyze market trends and data to inform marketing decisions",
+      "Collaborate with sales and product teams to create cohesive messaging",
+      "Manage and mentor a team of marketing professionals"
+    ],
+    "educationalRequirements": "Bachelor's degree in Marketing, Communications, or related field",
+    "experiences": "5+ years of experience in marketing, with 2+ years in a managerial role",
+    "contact": {
+      "phone": "555-456-7890",
+      "email": "hr@newhorizons.com"
+    }
+  },
+
+  {
+    "id": 3,
+    "logo": "./assets/logo/netflix.png",
+    "jobTitle": "Financial Analyst",
+    "companyName": "Netflix",
+    "location": "Los Gatos, California",
+    "jobType": ["Onsite"],
+    "salary": "$70,000 - $90,000",
+    "jobDescription": "Blue Ridge Capital is seeking a Financial Analyst to provide critical financial analysis and insight to our team.",
+    "jobResponsibility": [
+      "Analyze financial data to inform business decisions",
+      "Develop financial models to support forecasting and budgeting",
+      "Collaborate with cross-functional teams to identify cost-saving opportunities",
+      "Prepare financial reports and presentations for executive leadership"
+    ],
+    "educationalRequirements": "Bachelor's degree in Finance, Accounting, Economics, or related field",
+    "experiences": "2+ years of experience in financial analysis",
+    "contact": {
+      "phone": "555-789-1234",
+      "email": "hr@blueridgecapital.com"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "./assets/logo/tesla.png",
+    "jobTitle": "UX Designer",
+    "companyName": "Tesla Inc",
+    "location": "Alto, California",
+    "jobType": ["Remote"],
+    "salary": "$85,000 - $100,000",
+    "jobDescription": "We are looking for a talented UX Designer to join our team and help create user-centered design solutions.",
+    "jobResponsibility": [
+      "Conduct user research and usability testing",
+      "Design wireframes, prototypes, and user interfaces",
+      "Collaborate with development and product teams to ensure designs are feasible and meet user needs",
+      "Create and maintain design systems and guidelines"
+    ],
+    "educationalRequirements": "Bachelor's degree in UX Design, Interaction Design, Graphic Design, or related field",
+    "experiences": "3+ years of experience in UX design",
+    "contact": {
+      "phone": "555-234-5678",
+      "email": "hr@innovativedesigns.com"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "./assets/logo/linkedin.png",
+    "jobTitle": "Human Resources Manager",
+    "companyName": "LinkedIn Corporation",
+    "location": "Sunnyvale, California",
+    "jobType": ["Full Time"],
+    "salary": "$90,000 - $110,000",
+    "jobDescription": "Elite Enterprises is seeking an experienced Human Resources Manager to oversee all aspects of HR operations and strategy",
+    "jobResponsibility": [
+      "Develop and implement HR policies and procedures",
+      "Manage the recruitment and onboarding process",
+      "Provide coaching and support to managers and employees on HR-related issues",
+      "Ensure compliance with federal and state employment laws and regulations"
+    ],
+    "educationalRequirements": "Bachelor's degree in Human Resources, Business Administration, or related field",
+    "experiences": "5+ years of experience in HR management",
+    "contact": {
+      "phone": "555-345-6789",
+      "email": "hr@eliteenterprises.com"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "./assets/logo/intex.png",
+    "jobTitle": "Product Manager",
+    "companyName": "Intex Recreation Corp",
+    "location": "Long Beach, California",
+    "jobType": ["Onsite"],
+    "salary": "$100,000 - $120,000",
+    "jobDescription": "FutureTech is seeking an experienced Product Manager to lead the development and launch of innovative products.",
+    "jobResponsibility": [
+      "Define and prioritize product features and requirements",
+      "Collaborate with cross-functional teams to develop and launch products",
+      "Conduct market research and analysis to inform product strategy",
+      "Measure and analyze product performance and make recommendations for improvements"
+    ],
+    "educationalRequirements": "Bachelor's degree in Business Administration, Computer Science, Engineering, or related field",
+    "experiences": "5+ years of experience in product management, with a proven track record of launching successful products",
+    "contact": {
+      "phone": "555-456-7890",
+      "email": "hr@futuretech.com"
+    }
+  }
+]
